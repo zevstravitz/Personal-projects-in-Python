@@ -1,4 +1,4 @@
-#Zev Stravitz
+#Zev Stravitz and Michael Weinberger
 #Spring 2016
 #Machine-learning program where computer improves at playing hexapawn
 #https://en.wikipedia.org/wiki/Hexapawn
