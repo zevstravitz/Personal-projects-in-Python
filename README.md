@@ -21,5 +21,5 @@ See description of game here: [Conways Game of Life] (https://en.wikipedia.org/w
 Text-based hangman game based off of imported dictionary.
 
 
-#Note
+# Note
 All programs are written in Python 2.7
